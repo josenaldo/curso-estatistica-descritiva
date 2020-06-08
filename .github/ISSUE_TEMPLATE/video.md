@@ -1,7 +1,7 @@
 ---
 name: Video
 about: Template para tarefas de vídeo
-title: "[video]: Título do vídeo"
+title: "[video]: "
 labels: Vídeo
 assignees: josenaldo
 
